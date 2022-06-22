@@ -10,7 +10,7 @@ decorator==4.4.2
 future==0.18.2
 idna==2.8
 loguru==0.4.0
-numpy==1.18.2
+numpy==1.22.0
 opencv-python==4.2.0.32
 packaging==19.2
 parse==1.15.0
